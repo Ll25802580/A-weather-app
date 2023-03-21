@@ -1,6 +1,4 @@
-// By Roni Kaufman
-// https://ronikaufman.github.io
-// https://twitter.com/KaufmanRoni
+
 
 /*
 Algorithm inspired by the one described by Matt DesLauriers in this talk: https://youtube.com/watch?v=tPqGn-4VdgA
